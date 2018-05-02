@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<?xml-stylesheet type="text/xsl" href="layout_pres.xsl"?>
+<Presidents>
+  <President ID="25">
+    <Name>William McKinley</Name>
+    <Birthday>29.1.1843</Birthday>
+    <Birthplace>Niles, Ohio</Birthplace>
+    <YearsServed>1897-1901</YearsServed>
+    <Party>Republican</Party>
+    <Terms>1</Terms>
+  </President>
+  <President ID="26">
+    <Name>Theodore Roosevelt</Name>
+    <Birthday>27.10.1858</Birthday>
+    <Birthplace>New York, New York</Birthplace>
+    <YearsServed>1901-1909</YearsServed>
+    <Party>Republican</Party>
+    <Terms>2</Terms>
+  </President>
+  <President ID="27">
+    <Name>William Howard Taft</Name>
+    <Birthday>15.9.1857</Birthday>
+    <Birthplace>Cincinnati, Ohio</Birthplace>
+    <YearsServed>1909-1913</YearsServed>
+    <Party>Republican</Party>
+    <Terms>1</Terms>
+  </President>
+  <President ID="28">
+    <Name>Woodrow Wilson</Name>
+    <Birthday>28.12.1856</Birthday>
+    <Birthplace>Staunton, Virginia</Birthplace>
+    <YearsServed>1913-1921</YearsServed>
+    <Party>Democratic</Party>
+    <Terms>1</Terms>
+  </President>
+  <President ID="29">
+    <Name>Warren G. Harding</Name>
+    <Birthday>2.11.1865</Birthday>
+    <Birthplace>Blooming Grove, Ohio</Birthplace>
+    <YearsServed>1921-1923</YearsServed>
+    <Party>Republican</Party>
+    <Terms>1 - died in office</Terms>
+  </President>
+  <President ID="30">
+    <Name>John Calvin Coolidge</Name>
+    <Birthday>4.7.1872</Birthday>
+    <Birthplace>Plymouth, Vermont</Birthplace>
+    <YearsServed>1923-1929</YearsServed>
+    <Party>Republican</Party>
+    <Terms>1 - took over from Harding</Terms>
+  </President>
+  <President ID="31">
+    <Name>Herbert Hoover</Name>
+    <Birthday>10.8.1874</Birthday>
+    <Birthplace>West Branch, Iowa</Birthplace>
+    <YearsServed>1929-1933</YearsServed>
+    <Party>Republican</Party>
+    <Terms>1</Terms>
+  </President>
+  <President ID="32">
+    <Name>Franklin D. Roosevelt</Name>
+    <Birthday>30.1.1882</Birthday>
+    <Birthplace>Hyde Park, New York</Birthplace>
+    <YearsServed>1933-1945</YearsServed>
+    <Party>Democratic</Party>
+    <Terms>4 - died in 4th term</Terms>
+  </President>
+  <President ID="33">
+    <Name>Harry S. Truman</Name>
+    <Birthday>8.5.1884</Birthday>
+    <Birthplace>Lamar, Missouri</Birthplace>
+    <YearsServed>1945-1953</YearsServed>
+    <Party>Democratic</Party>
+    <Terms>2 - took over for Roosevelt</Terms>
+  </President>
+  <President ID="34">
+    <Name>Dwight D. Eisenhower</Name>
+    <Birthday>14.10.1890</Birthday>
+    <Birthplace>Denison, Texas</Birthplace>
+    <YearsServed>1953-1961</YearsServed>
+    <Party>Republican</Party>
+    <Terms>2</Terms>
+  </President>
+  <President ID="35">
+    <Name>John F. Kennedy</Name>
+    <Birthday>29.05.1917</Birthday>
+    <Birthplace>Brookline, Massachusetts</Birthplace>
+    <YearsServed>1961-1963</YearsServed>
+    <Party>Democratic</Party>
+    <Terms>1 - assassinated</Terms>
+  </President>
+  <President ID="36">
+    <Name>Lyndon B. Johnson</Name>
+    <Birthday>27.08.1908</Birthday>
+    <Birthplace>Stonewall, Texas</Birthplace>
+    <YearsServed>1963-1969</YearsServed>
+    <Party>Democratic</Party>
+    <Terms>1 - took over for Kennedy</Terms>
+  </President>
+  <President ID="37">
+    <Name>Richard M. Nixon</Name>
+    <Birthday>09.01.1913</Birthday>
+    <Birthplace>Yorba Linda, California</Birthplace>
+    <YearsServed>1969-1974</YearsServed>
+    <Party>Republican</Party>
+    <Terms>2 - resigned</Terms>
+  </President>
+  <President ID="38">
+    <Name>Gerald R. Ford*</Name>
+    <Birthday>14.07.1913</Birthday>
+    <Birthplace>Omaha, Nebraska</Birthplace>
+    <YearsServed>1974-1977</YearsServed>
+    <Party>Republican</Party>
+    <Terms>Took over for Nixon - see below...</Terms>
+  </President>
+  <President ID="39">
+    <Name>Jimmy Carter</Name>
+    <Birthday>01.10.1924</Birthday>
+    <Birthplace>Plains, Georgia</Birthplace>
+    <YearsServed>1977-1981</YearsServed>
+    <Party>Democratic</Party>
+    <Terms>1</Terms>
+  </President>
+  <President ID="40">
+    <Name>Ronald Reagan</Name>
+    <Birthday>06.02.1911</Birthday>
+    <Birthplace>Tampico, Illinois</Birthplace>
+    <YearsServed>1981-1989</YearsServed>
+    <Party>Republican</Party>
+    <Terms>2</Terms>
+  </President>
+  <President ID="41">
+    <Name>George Bush</Name>
+    <Birthday>12.06.1924</Birthday>
+    <Birthplace>Milton, Massachusetts</Birthplace>
+    <YearsServed>1989-1993</YearsServed>
+    <Party>Republican</Party>
+    <Terms>1</Terms>
+  </President>
+  <President ID="42">
+    <Name>William Jefferson Clinton</Name>
+    <Birthday>19.08.1946</Birthday>
+    <Birthplace>Hope, Arkansas</Birthplace>
+    <YearsServed>1993-2001</YearsServed>
+    <Party>Democratic</Party>
+    <Terms>2</Terms>
+  </President>
+  <President ID="43">
+    <Name>George W. Bush</Name>
+    <Birthday>06.07.1946</Birthday>
+    <Birthplace>New Haven, Connecticut</Birthplace>
+    <YearsServed>2001-2009</YearsServed>
+    <Party>Republican</Party>
+    <Terms>2</Terms>
+   </President>
+  <President ID="44">
+   <Name>Barack Obama</Name>
+   <Birthday>04.08.1961</Birthday>
+   <Birthplace>Honolulu</Birthplace>
+   <YearsServed>Present</YearsServed>
+   <Party>Democratic</Party>
+   <Terms />
+  
+  </President>
+</Presidents>
